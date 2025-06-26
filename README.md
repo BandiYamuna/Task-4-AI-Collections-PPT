@@ -29,7 +29,7 @@ To design a framework for an AI-driven, autonomous debt management system using 
 ## 🔗 View Certificate & Submission
 
 👉 **Presentation:** [Click Here](link to your .pptx)  
-👉 **LinkedIn Post:** [Click Here](your LinkedIn post URL)
+👉 **LinkedIn Post:** (https://www.linkedin.com/feed/update/urn:li:activity:7343323686571077632/)
 
 ---
 
