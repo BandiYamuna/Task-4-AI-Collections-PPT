@@ -26,10 +26,7 @@ To design a framework for an AI-driven, autonomous debt management system using 
 ✔️ Applied real-world business insights  
 ✔️ Shared project publicly on LinkedIn  
 
-## 🔗 View Certificate & Submission
 
-👉 **Presentation:** [Click Here](link to your .pptx)  
-👉 **LinkedIn Post:** (https://www.linkedin.com/feed/update/urn:li:activity:7343323686571077632/)
 
 ---
 
